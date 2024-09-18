@@ -20,7 +20,7 @@ Observe o trecho de código abaixo: int INDICE = 12, SOMA = 0, K = 1; enquanto K
 
 Ao final do processamento, qual será o valor da variável SOMA?
 
-**RESPONSE**: O valor é 66. [Click here to see the code](./3.js)
+**RESPONSE**: O valor é 77. [Click here to see the code](./3.js)
 
 ### 4 ----------------------------------------------------------------
 
